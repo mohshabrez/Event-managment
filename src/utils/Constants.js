@@ -1,0 +1,1 @@
+export const BASE_URL = "https://f60d187f-0c4b-449b-8b91-ae7cbbd83227-00-2yf1m89d9ylqj.pike.replit.dev/api/v1"
